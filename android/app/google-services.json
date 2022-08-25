@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691141789860",
+    "project_id": "find-partner-project-msa1",
+    "storage_bucket": "find-partner-project-msa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691141789860:android:a912c144a5bdf125817e31",
+        "android_client_info": {
+          "package_name": "com.example.find_partner_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691141789860-eft1phqgacvlshovr1mbhfs9cas3prji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB79B0p4Yzpm7D99vUhckvD3hpYys7Rz7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691141789860-eft1phqgacvlshovr1mbhfs9cas3prji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
